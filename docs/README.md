@@ -1,2 +1,2 @@
 # -
-.غذابران یک ابزار برای آسان نمودن به غذارسانی به نیازمندان است
+Qazabaran is a platform to feed poor people. 
